@@ -1,0 +1,8 @@
+.todo-item {
+    transition: transform 0.2s ease;
+  }
+  
+.todo-item:hover {
+  transform: scale(1.05);
+}
+  
